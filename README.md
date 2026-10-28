@@ -144,7 +144,7 @@ Tenho interesse em compreender como sistemas e jogos funcionam internamente, exp
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yzknik/Yzknik/output/github-snake-purple.svg" width="100%" alt="Purple Snake Animation"/>
+<img src="[https://raw.githubusercontent.com/Yzknik/Yzknik/output/github-snake-purple.svg](https://raw.githubusercontent.com/thedevslordXs/thedevslordXs/output/github-snake-purple.svg)" width="100%" alt="Purple Snake Animation"/>
 
 <br>
 

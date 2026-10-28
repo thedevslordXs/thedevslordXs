@@ -1,25 +1,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:8B0000,100:FF3030&height=200&section=header&text=YURI%20ANTONIO&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=CHEAT%20DEVELOPER%20%7C%20REVERSE%20ENGINEER&descSize=16&descAlignY=57" width="100%" alt="Yuri Antonio Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B17,50:581C87,100:A855F7&height=200&section=header&text=YURI%20ANTONIO&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=CHEAT%20DEVELOPER%20%7C%20REVERSE%20ENGINEER&descSize=16&descAlignY=57" alt="Yuri Antonio"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=FF4242&center=true&vCenter=true&repeat=true&width=650&lines=Cheat+Development+%26+Reverse+Engineering;C%2B%2B+%7C+Memory+Analysis+%7C+Windows+Internals;Low-Level+Programming+%26+Debugging;Understanding+Systems+Beyond+The+Surface" alt="Animated typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Cheat+Development+%26+Reverse+Engineering;C%2B%2B+%7C+Memory+Analysis+%7C+Windows+Internals;Low-Level+Programming+%26+Debugging;Understanding+Systems+Beyond+The+Surface" alt="Typing Animation"/>
 
 <br><br>
 
 <a href="https://github.com/Yzknik">
-<img src="https://img.shields.io/badge/GITHUB-YZKNIK-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-YZKNIK-171321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://discord.com/users/1465458408516882644">
-<img src="https://img.shields.io/badge/DISCORD-CONTACT-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://img.shields.io/badge/DISCORD-CONTACT-6D28D9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://www.instagram.com/direct/t/18069603386299248/">
-<img src="https://img.shields.io/badge/INSTAGRAM-CONTACT-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-CONTACT-9333EA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Yzknik&label=PROFILE+VIEWS&color=FF3030&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Yzknik&label=PROFILE+VIEWS&color=A855F7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -27,27 +27,34 @@
 
 ## `> whoami`
 
-```cpp
-#include <iostream>
-#include <string_view>
-
-class Developer {
-public:
-    std::string_view name = "Yuri Antonio";
-    std::string_view alias = "Yzknik";
-    std::string_view role = "Cheat Developer";
-    std::string_view focus = "Reverse Engineering";
-    std::string_view primary = "C++";
-
-    void introduce() const {
-        std::cout << "Think low-level. Build beyond limits.";
-    }
-};
-```
+<table width="100%">
+<tr>
+<td width="25%"><b>👤 Name</b></td>
+<td><b>Yuri Antonio</b></td>
+</tr>
+<tr>
+<td><b>⚡ Alias</b></td>
+<td><code>Yzknik</code></td>
+</tr>
+<tr>
+<td><b>💻 Role</b></td>
+<td><b>Cheat Developer</b></td>
+</tr>
+<tr>
+<td><b>🔍 Focus</b></td>
+<td>Reverse Engineering & Low-Level Programming</td>
+</tr>
+<tr>
+<td><b>⚙️ Language</b></td>
+<td><code>C++</code></td>
+</tr>
+</table>
 
 Desenvolvedor com foco em **Cheat Development**, **Reverse Engineering** e **Low-Level Programming**.
 
-Meu interesse está em compreender como sistemas e jogos funcionam internamente, estudando arquiteturas, executáveis, estruturas de memória e componentes do Windows.
+Tenho interesse em compreender como sistemas e jogos funcionam internamente, explorando análise de memória, arquitetura de software, depuração e desenvolvimento de ferramentas.
+
+> *"Understanding systems beyond the surface."*
 
 ---
 
@@ -55,21 +62,25 @@ Meu interesse está em compreender como sistemas e jogos funcionam internamente,
 
 <div align="center">
 
-### Core Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python&theme=dark" alt="Core Languages"/>
+**CORE LANGUAGES**
 
 <br><br>
 
-### Development Environment
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python&theme=dark" alt="Programming Languages"/>
+
+<br><br>
+
+**DEVELOPMENT ENVIRONMENT**
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows&theme=dark" alt="Development Tools"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C++-LOW_LEVEL-FF3030?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASSEMBLY-x86%2Fx64-252525?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WINDOWS-INTERNALS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASSEMBLY-x86%2Fx64-171321?style=for-the-badge&labelColor=6D28D9" alt="Assembly"/>
+<img src="https://img.shields.io/badge/WINDOWS-INTERNALS-171321?style=for-the-badge&labelColor=6D28D9" alt="Windows Internals"/>
+<img src="https://img.shields.io/badge/LOW_LEVEL-C%2B%2B-171321?style=for-the-badge&labelColor=6D28D9" alt="Low Level"/>
 
 </div>
 
@@ -77,14 +88,40 @@ Meu interesse está em compreender como sistemas e jogos funcionam internamente,
 
 ## `> areas_of_interest`
 
-| Specialization | Description |
-|:--|:--|
-| 🎮 **Cheat Development** | Game mechanics, tooling and internal systems |
-| 🔎 **Reverse Engineering** | Binary analysis and software internals |
-| 🧠 **Memory Analysis** | Memory layouts, pointers and data structures |
-| ⚙️ **Low-Level Programming** | C, C++, Assembly and systems programming |
-| 🪟 **Windows Internals** | WinAPI, processes, threads and system architecture |
-| 🛠️ **Debugging** | Program analysis and troubleshooting |
+<table width="100%">
+<thead>
+<tr>
+<th align="left" width="35%">Specialization</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🎮 <b>Cheat Development</b></td>
+<td>Game systems, memory tooling and software internals</td>
+</tr>
+<tr>
+<td>🔎 <b>Reverse Engineering</b></td>
+<td>Binary analysis, executables and debugging</td>
+</tr>
+<tr>
+<td>🧠 <b>Memory Analysis</b></td>
+<td>Memory layouts, pointers and data structures</td>
+</tr>
+<tr>
+<td>⚙️ <b>Low-Level Programming</b></td>
+<td>C, C++, Assembly and systems programming</td>
+</tr>
+<tr>
+<td>🪟 <b>Windows Internals</b></td>
+<td>WinAPI, processes, threads and system architecture</td>
+</tr>
+<tr>
+<td>🛠️ <b>Debugging</b></td>
+<td>Program analysis and troubleshooting</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -92,12 +129,12 @@ Meu interesse está em compreender como sistemas e jogos funcionam internamente,
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yzknik&theme=tokyonight" width="95%" alt="GitHub Activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yzknik&theme=2077" width="98%" alt="GitHub Activity"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yzknik&theme=tokyonight" height="165" alt="Languages by Repository"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yzknik&theme=tokyonight" height="165" alt="Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yzknik&theme=2077" width="49%" alt="Languages by Repository"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yzknik&theme=2077" width="49%" alt="Languages by Commit"/>
 
 </div>
 
@@ -107,9 +144,11 @@ Meu interesse está em compreender como sistemas e jogos funcionam internamente,
 
 <div align="center">
 
-<!-- A animação aparece depois de configurar o GitHub Actions -->
+<img src="https://raw.githubusercontent.com/Yzknik/Yzknik/output/github-snake-purple.svg" width="100%" alt="Purple Snake Animation"/>
 
-<img src="https://raw.githubusercontent.com/Yzknik/Yzknik/output/github-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+<br>
+
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-PURPLE_EDITION-A855F7?style=flat-square&labelColor=171321" alt="Purple Contributions"/>
 
 </div>
 
@@ -117,32 +156,64 @@ Meu interesse está em compreender como sistemas e jogos funcionam internamente,
 
 ## `> current_focus`
 
-```text
-╔══════════════════════════════════════════╗
-║           CURRENT DEVELOPMENT            ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  [01] C / C++ / Assembly                 ║
-║  [02] Reverse Engineering                ║
-║  [03] Windows Internals                  ║
-║  [04] Memory Analysis                    ║
-║  [05] Debugging & Optimization           ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+<table width="100%">
+<thead>
+<tr>
+<th align="center" width="10%">#</th>
+<th align="left" width="65%">Development Area</th>
+<th align="center" width="25%">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><code>01</code></td>
+<td><b>C / C++ / Assembly</b></td>
+<td align="center">🟣 Active</td>
+</tr>
+<tr>
+<td align="center"><code>02</code></td>
+<td><b>Reverse Engineering</b></td>
+<td align="center">🟣 Active</td>
+</tr>
+<tr>
+<td align="center"><code>03</code></td>
+<td><b>Windows Internals</b></td>
+<td align="center">🟣 Active</td>
+</tr>
+<tr>
+<td align="center"><code>04</code></td>
+<td><b>Memory Analysis</b></td>
+<td align="center">🟣 Active</td>
+</tr>
+<tr>
+<td align="center"><code>05</code></td>
+<td><b>Debugging & Optimization</b></td>
+<td align="center">🟣 Active</td>
+</tr>
+</tbody>
+</table>
+
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ACTIVE-A855F7?style=for-the-badge&labelColor=171321" alt="System Active"/>
+<img src="https://img.shields.io/badge/MODE-CONTINUOUS_LEARNING-7C3AED?style=for-the-badge&labelColor=171321" alt="Continuous Learning"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=FF4242&center=true&vCenter=true&width=500&lines=Think+Low-Level.;Analyze.+Understand.+Build.;Code.+Reverse.+Improve." alt="Footer typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1500&color=A855F7&center=true&vCenter=true&width=500&lines=Think+Low-Level.;Analyze.+Understand.+Build.;Code.+Reverse.+Improve." alt="Footer Animation"/>
 
-<br>
+<br><br>
 
 **`SYSTEM STATUS: ALWAYS LEARNING`**
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3030,50:8B0000,100:090909&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:581C87,100:0D0B17&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>

@@ -17,7 +17,7 @@ jobs:
       - name: Generate Purple Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Yzknik
+          github_user_name: thedevslordXs
           outputs: |
             dist/github-snake-purple.svg?color_snake=%23C084FC&color_dots=%23171524,%233B0764,%236D28D9,%23A855F7,%23D8B4FE
 
